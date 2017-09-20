@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - week
+  - youLose
+  - youWin
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - door
+  - background_grid
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background_grid
+    uniqueID: 1851892299
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: door
+    uniqueID: 2418308277
+    locked: 0
+  - name: player
+    uniqueID: 923317711
+    locked: 0
+  - name: monster
+    uniqueID: 289650541
+    locked: 0
+  - name: wall
+    uniqueID: 4141189759
+    locked: 0
